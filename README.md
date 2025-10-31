@@ -1,7 +1,6 @@
 # Gravitational Field Mapper
 
 > Visualize the invisible — an interactive Python tool that maps gravitational field lines between masses in 2D.  
-> Built with 💙 by [Ananya B A](https://github.com/Ananya-B-A) for **Hacktoberfest 2025**.
 
 ---
 
